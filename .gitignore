@@ -1,2 +1,6 @@
 venv/
 chroma_db/
+uploads/
+app.db
+__pycache__/
+*.pyc
